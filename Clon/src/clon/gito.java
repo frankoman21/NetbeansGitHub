@@ -13,5 +13,5 @@ package clon;
  * @company DAM
  */
 public class gito {
-
+System.out.println("Hola mundo");
 }
